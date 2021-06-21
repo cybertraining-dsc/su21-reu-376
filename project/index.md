@@ -16,7 +16,7 @@ resources:
 Status: draft, Type: Project
 
 
-Firstname Lastname, [su21-reu-376](https://github.com/cybertraining-dsc/su21-reu-376), [Edit](https://github.com/cybertraining-dsc/su21-reu-376/blob/main/project/index.md)
+Jamyla Young, [su21-reu-376](https://github.com/cybertraining-dsc/su21-reu-376), [Edit](https://github.com/cybertraining-dsc/su21-reu-376/blob/main/project/index.md)
 
 {{% pageinfo %}}
 
