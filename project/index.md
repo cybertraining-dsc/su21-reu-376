@@ -1,7 +1,7 @@
 ---
 date: 2021-06-16
 title: "Dentronics: Artifical intelligence in dentistry "
-linkTitle: dentronics
+linkTitle: "Dentronics"
 tags: ["project", "reu","ai", "dentistry"]
 description: "Here comes the abstract"
 author: Young Jamyla
