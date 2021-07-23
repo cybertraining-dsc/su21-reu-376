@@ -30,7 +30,7 @@ Contents
 
 {{% /pageinfo %}}
 
-**Keywords:** Dentronics, neural pathways, prosthodotics. 
+**Keywords:** Dental implants, implant stability, prosthodotics. 
 
 ## 1. Introduction
 
