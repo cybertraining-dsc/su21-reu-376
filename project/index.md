@@ -34,8 +34,27 @@ Contents
 
 ## 1. Introduction
 
- - [ ] Find literature about Dentronics and its effects
- - [ ] Analyze the literature
+
+  {https://www.drkarras.com/a-look-at-the-structure-of-dental-implants/} 
+https://www.infodentis.com/dental-implants/abutment.php
+Dental implants are  ribbed oral protheses typically made up of biocompatible titanium to replace the missing root(s) of an absent tooth. 
+{1} These dental protheses are used to support the jaw bone to prevent deterioration due to an absent root. This is referred to as bone resorption which can result to facial malformation as well as reduced oral function such as biting and chewing. These devices are composed of three elements that imitate a natural tooth function and structure.
+The implant which are typically ribbed and threaded to promote stability while integrating within the bone tissue. The osseointegration process usually takes 6-8 months to rebuild the bone to support the implant. An implant abutment is fixed on top of the implant to act as a base for prosthetic devices. (2) Prefabricated abutments are manufactured in many shapes, sizes and angles depending on the location of the implant and the types of prothesis that will be attached. Dental abutments support a range of prothetic devices such as dental crowns, bridges, and dentures.
+
+
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5268121/
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7494467/
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5480808/
+
+Osseointegrated dental implants depend on various factors that affect the anchorage of the  implant to the bone tissue. Successful surgical anchoring techniques can contribute to long term success of implant stability. Primary stability plays a role 2 week postoperatively by achieving mechanical retention of the implant.   It helps establish a mechanical microenvironment for gradual bone healing, or osseointegration-This is secondary implant stability. {2} Bone type, implant length, implant and diameter influences primary and secondary implant stability. Implant length can range from 6mm to 20mm; however, the most common lengths are between 8mm to 15mm. Many studies suggest that implant length contribute to decreasing bone stress and increasing implant stability. Bone stress can occur at both the cortical and cancellous part of the bone. Increasing implant length will decrease stress in the cancellous part of the bone while increasing the implant diameter can decrease  stress in the cortical part of the bone. Bone type can promote positive bone stimulation around an implant improving the overall function. There are four different types: Type I, Type II, Type III, and Type IV. Type I is the most dense of them which provides more cortical anchorage but has limited vascularity. Type II is the best for osseointegration because it provides good cortical anchorage and has better vascularity than type I. Type III and IV have a thin layer of cortical bone which decrease the success rate of primary stability{3).
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7494467/
+https://www.sciencedirect.com/science/article/pii/S0901502720302496
+
+Implant stability can be measured using the Implant Stability Quotient (ISQ) as an indirect indicator to determine the time frame for implant loading and prognostic indicator for implant failure(1). This can be measured by resonance frequency analysis (RFA) immediately after the implant has been  placed. Resonance frequency analysis is the measurement in which a device vibrates in response to frequencies in the range of 5-15 kHz. The peak amplitude of the response is then encoded into the implant stability quotient (ISQ) .The clinical range of ISQ is from 55-80. High stability is >70 ISQ while medium stability is between 60-69 ISQ. Low stability is <60 ISQ.(2) 
 
 
 ## 2. Data sets
