@@ -75,7 +75,7 @@ the download function.
 - [ ] if image is copied , you must use a reference such as shown in the Figure 1 caption
 - [ ] list 
 
-![](images/ Mean-IT-and-implant-stability-quotient-ISQ-in-different-bone-types-Both-IT-and-ISQ.png)
+![](images/Mean-IT-and-implant-stability-quotient-ISQ-in-different-bone-types-Both-IT-and-ISQ.png)
 
 **Figure 1:** Images can be included in the report, but if they are copied you must cite them [^1].
 
