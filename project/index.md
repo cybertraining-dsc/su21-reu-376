@@ -75,7 +75,7 @@ the download function.
 - [ ] if image is copied , you must use a reference such as shown in the Figure 1 caption
 - [ ] list 
 
-![Figure 1](https://github.com/cybertraining-dsc/fa20-523-314/raw/main/project/images/chart.png)
+![Figure 1] (https://github.com/cybertraining-dsc/su21-reu-376/blob/0d48129b212c98be739ebb959d39bab733b3845b/project/images/Mean-IT-and-implant-stability-quotient-ISQ-in-different-bone-types-Both-IT-and-ISQ.png)
 
 **Figure 1:** Images can be included in the report, but if they are copied you must cite them [^1].
 
