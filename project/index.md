@@ -55,7 +55,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7494467/
 https://www.sciencedirect.com/science/article/pii/S0901502720302496
 
 Implant stability can be measured using the Implant Stability Quotient (ISQ) as an indirect indicator to determine the time frame for implant loading and prognostic indicator for implant failure(1). This can be measured by resonance frequency analysis (RFA) immediately after the implant has been  placed. Resonance frequency analysis is the measurement in which a device vibrates in response to frequencies in the range of 5-15 kHz. The peak amplitude of the response is then encoded into the implant stability quotient (ISQ) .The clinical range of ISQ is from 55-80. High stability is >70 ISQ while medium stability is between 60-69 ISQ. Low stability is <60 ISQ.(2) 
-![](images/ISQ-Implant-Stability-GP-Implants-2.png)
+![Implant Stability Quotient Chart](images/ISQ-Implant-Stability-GP-Implants-2.png)
 ## 2. Data sets
 ![](images/Mean-IT-and-implant-stability-quotient-ISQ-in-different-bone-types-Both-IT-and-ISQ.png)
 - [ ] Find data sets about effects about dentronics
