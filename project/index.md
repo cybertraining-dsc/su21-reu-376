@@ -52,7 +52,7 @@ Artificial intelligence is a branch of computer science that focuses on building
 
 ![Mean IT and Implant Stability Quotient](https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-376/main/project/images/Mean-IT-and-implant-stability-quotient-ISQ-in-different-bone-types-Both-IT-and-ISQ.png)
 
-Researchers at Daejon Dental Hospital used automated deep neural convolutional networks to evaluate the efficacy of its ability to classify dental implant systems and compare the performance with dental professionals using radiographic images. 
+Researchers at Daejon Dental Hospital used automated deep convolutional neural networks to evaluate the efficacy of its ability to classify dental implant systems and compare the performance with dental professionals using radiographic images. 
 
 11,980 raw panoramic and periapical radiographic images of dental implant systems were collected. these images were then randomly divided into 2 groups: 9584 (80%) images were selected for the training dataset and the remaining 2396 (20%) images were used as the testing dataset.
 
@@ -66,6 +66,9 @@ Dental implant systems were classified into six different types with a diameter 
 * TSIII® (Osstem, Seoul, Korea), with a diameter of 3.5–5.0 mm and a length of 7–13 mm;  
 * SLActive® BL (Institut Straumann AG, Basel, Switzerland), with a diameter of 3.3–4.8 mm and a  length of 8–12 mm; 
 * SLActive® BLT (Institut Straumann AG, Basel, Switzerland), with a diameter of 3.3–4.8 mm and a  length of 8–12 mm. 
+
+## 2.2 Deep Convulutional Neural Network
+![](images/project/images/DCNN.png)
 
 
 - [ ] Find data sets about effects about dentronics
