@@ -1,6 +1,6 @@
 ---
 date: 2021-06-16
-title: "Dentronics: Artifical intelligence in Prosthodontics "
+title: "Dentronics: Artifical intelligence in Prosthodontics"
 linkTitle: "Dentronics"
 tags: ["project", "reu","ai", "dentistry"]
 description: Artificial intelligence is a branch of computer science that focuses on building and programming machines to think like humans and mimic their actions. The proper concept definition of this term cannot be achieved simply by applying a mathematical, engineering, or logical approach but requires an approach that is linked to a deep cognitive scientific inquiry. The use of machine-based learning is constantly evolving the dental and medical field to assist with medical decision making process. In addition to diagnosis of visually confirmed dental caries and impacted teeth, studies applying machine learning based on artificial neural networks to dental treatment through analysis of dental magnetic resonance imaging, computed tomography, and cephalometric radiography are actively underway, and some visible results are emerging at a rapid pace for commercialization.
@@ -55,9 +55,12 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7494467/
 https://www.sciencedirect.com/science/article/pii/S0901502720302496
 
 Implant stability can be measured using the Implant Stability Quotient (ISQ) as an indirect indicator to determine the time frame for implant loading and prognostic indicator for implant failure(1). This can be measured by resonance frequency analysis (RFA) immediately after the implant has been  placed. Resonance frequency analysis is the measurement in which a device vibrates in response to frequencies in the range of 5-15 kHz. The peak amplitude of the response is then encoded into the implant stability quotient (ISQ) .The clinical range of ISQ is from 55-80. High stability is >70 ISQ while medium stability is between 60-69 ISQ. Low stability is <60 ISQ.(2) 
-![Implant Stability Quotient Chart](images/ISQ-Implant-Stability-GP-Implants-2.png)
+![Implant Stability Quotient Chart](https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-376/main/project/images/ISQ-Implant-Stability-GP-Implants-2.png)
+
 ## 2. Data sets
-![](images/Mean-IT-and-implant-stability-quotient-ISQ-in-different-bone-types-Both-IT-and-ISQ.png)
+
+![Mean IT and Implant Stability Quotient](https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-376/main/project/images/Mean-IT-and-implant-stability-quotient-ISQ-in-different-bone-types-Both-IT-and-ISQ.png)
+
 - [ ] Find data sets about effects about dentronics
 - [ ] Identify the purpose of data sets
 - [ ] What are the challenges with Dentronics data sets? HIPPA, size, availibility
@@ -95,11 +98,11 @@ A convincing but not fake conclusion should summarize what the conclusion of the
 
 - [ ] Gregor helped me
 
-Please add acknowledgments to all that contributed or helped on this project.  
+Please add acknowledgments to all that contributed or helped on this project.
 
 ## 9. References
 
--[ ]  Your report must include at least 6 references. Please use customary academic citation and not                  just URLs. As we will at one point automatically change the references from superscript to square brackets it is best to introduce a space before the first square bracket.
+- [ ]  Your report must include at least 6 references. Please use customary academic citation and not                  just URLs. As we will at one point automatically change the references from superscript to square brackets it is best to introduce a space before the first square bracket.
 
 [^1]: Use of energy explained - Energy use in homes, [Online resource] 
       <https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php>
