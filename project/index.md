@@ -34,7 +34,6 @@ Contents
 
 ## 1. Introduction
 
-
 Dental implants are  ribbed oral protheses typically made up of biocompatible titanium to replace the missing root(s) of an absent tooth. {1} These dental protheses are used to support the jaw bone to prevent deterioration due to an absent root. This is referred to as bone resorption which can result to facial malformation as well as reduced oral function such as biting and chewing. These devices are composed of three elements that imitates a natural tooth function and structure.The implant which are typically ribbed and threaded to promote stability while integrating within the bone tissue. The osseointegration process usually takes 6-8 months to rebuild the bone to support the implant. An implant abutment is fixed on top of the implant to act as a base for prosthetic devices. (2) Prefabricated abutments are manufactured in many shapes, sizes and angles depending on the location of the implant and the types of prothesis that will be attached. Dental abutments support a range of prothetic devices such as dental crowns, bridges, and dentures.
 
 Osseointegrated dental implants depend on various factors that affect the anchorage of the  implant to the bone tissue. Successful surgical anchoring techniques can contribute to long term success of implant stability. Primary stability plays a role 2 week postoperatively by achieving mechanical retention of the implant.   It helps establish a mechanical microenvironment for gradual bone healing, or osseointegration-This is secondary implant stability. {2} Bone type, implant length, implant and diameter influences primary and secondary implant stability. Implant length can range from 6mm to 20mm; however, the most common lengths are between 8mm to 15mm. Many studies suggest that implant length contribute to decreasing bone stress and increasing implant stability. Bone stress can occur at both the cortical and cancellous part of the bone. Increasing implant length will decrease stress in the cancellous part of the bone while increasing the implant diameter can decrease  stress in the cortical part of the bone. Bone type can promote positive bone stimulation around an implant improving the overall function. There are four different types: Type I, Type II, Type III, and Type IV. Type I is the most dense of them which provides more cortical anchorage but has limited vascularity. Type II is the best for osseointegration because it provides good cortical anchorage and has better vascularity than type I. Type III and IV have a thin layer of cortical bone which decrease the success rate of primary stability{3).
@@ -50,8 +49,6 @@ Artificial intelligence is a branch of computer science that focuses on building
 
 ## 2. Data sets
 
-![Mean IT and Implant Stability Quotient](https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-376/main/project/images/Mean-IT-and-implant-stability-quotient-ISQ-in-different-bone-types-Both-IT-and-ISQ.png)
-
 Researchers at Daejon Dental Hospital used automated deep convolutional neural networks to evaluate the efficacy of its ability to classify dental implant systems and compare the performance with dental professionals using radiographic images. 
 
 11,980 raw panoramic and periapical radiographic images of dental implant systems were collected. these images were then randomly divided into 2 groups: 9584 (80%) images were selected for the training dataset and the remaining 2396 (20%) images were used as the testing dataset.
@@ -59,6 +56,7 @@ Researchers at Daejon Dental Hospital used automated deep convolutional neural n
 
 
 ## 2.1 Dental implant classification
+
 Dental implant systems were classified into six different types with a diameter of 3.3-5.0mm and a length of 7-13mm.
 * Astra OsseoSpeed® TX (Dentsply IH AB, Molndal, Sweden), with a diameter of 4.5–5.0 mm and a length of 9–13 mm;  
 * Implantium® (Dentium, Seoul, Korea), with a diameter of 3.6–5.0 mm and a length of 8–12 mm;  
@@ -68,7 +66,12 @@ Dental implant systems were classified into six different types with a diameter 
 * SLActive® BLT (Institut Straumann AG, Basel, Switzerland), with a diameter of 3.3–4.8 mm and a  length of 8–12 mm. 
 
 ## 2.2 Deep Convulutional Neural Network
+
 ![](images/DCNN.png)
+Figure 1: Overview of an automated deep convolutional neural network. Using Neuro-T to automatically select the model and optimize hyper-parameter. During training and inference, the automated DCNN automatically creates effective deep learning models and searches the optimal hyperparameters. An Adam optimizer with L2 regularization was 
+used for transfer learning. The batch size was set to 432, and the automated DCNN architecture  consisted of 18 layers with no dropout.
+
+
 
 
 - [ ] Find data sets about effects about dentronics
@@ -80,7 +83,19 @@ the download function.
 
 
 
-## 3. Using Images
+## 3. Results
+
+![](images/results.png)
+
+
+
+
+
+![](images/Screen Shot 2021-08-13 at 6.55.17 PM.png)
+
+
+
+
 
 - [ ] Place a cool image into projects images in my directory
 - [ ] Correct the following, replace the fa number with my su number and the chart of png
