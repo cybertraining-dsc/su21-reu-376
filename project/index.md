@@ -68,7 +68,7 @@ Dental implant systems were classified into six different types with a diameter 
 * SLActive® BLT (Institut Straumann AG, Basel, Switzerland), with a diameter of 3.3–4.8 mm and a  length of 8–12 mm. 
 
 ## 2.2 Deep Convulutional Neural Network
-![](images/project/images/DCNN.png)
+![](images/DCNN.png)
 
 
 - [ ] Find data sets about effects about dentronics
