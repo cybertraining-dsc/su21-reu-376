@@ -34,15 +34,15 @@ Contents
 
 ## 1. Introduction
 
-Dental implants are  ribbed oral protheses typically made up of biocompatible titanium to replace the missing root(s) of an absent tooth. {1} These dental protheses are used to support the jaw bone to prevent deterioration due to an absent root. This is referred to as bone resorption which can result to facial malformation as well as reduced oral function such as biting and chewing. These devices are composed of three elements that imitates a natural tooth function and structure.The implant which are typically ribbed and threaded to promote stability while integrating within the bone tissue. The osseointegration process usually takes 6-8 months to rebuild the bone to support the implant. An implant abutment is fixed on top of the implant to act as a base for prosthetic devices. (2) Prefabricated abutments are manufactured in many shapes, sizes and angles depending on the location of the implant and the types of prothesis that will be attached. Dental abutments support a range of prothetic devices such as dental crowns, bridges, and dentures.
+Dental implants are  ribbed oral protheses typically made up of biocompatible titanium to replace the missing root(s) of an absent tooth.  These dental protheses are used to support the jaw bone to prevent deterioration due to an absent root[^5]. This is referred to as bone resorption which can result to facial malformation as well as reduced oral function such as biting and chewing. These devices are composed of three elements that imitates a natural tooth function and structure.The implant which are typically ribbed and threaded to promote stability while integrating within the bone tissue. The osseointegration process usually takes 6-8 months to rebuild the bone to support the implant. An implant abutment is fixed on top of the implant to act as a base for prosthetic devices [^2]. Prefabricated abutments are manufactured in many shapes, sizes and angles depending on the location of the implant and the types of prothesis that will be attached. Dental abutments support a range of prothetic devices such as dental crowns, bridges, and dentures [^1].
 
-Osseointegrated dental implants depend on various factors that affect the anchorage of the  implant to the bone tissue. Successful surgical anchoring techniques can contribute to long term success of implant stability. Primary stability plays a role 2 week postoperatively by achieving mechanical retention of the implant.   It helps establish a mechanical microenvironment for gradual bone healing, or osseointegration-This is secondary implant stability. {2} Bone type, implant length, implant and diameter influences primary and secondary implant stability. Implant length can range from 6mm to 20mm; however, the most common lengths are between 8mm to 15mm. Many studies suggest that implant length contribute to decreasing bone stress and increasing implant stability. Bone stress can occur at both the cortical and cancellous part of the bone. Increasing implant length will decrease stress in the cancellous part of the bone while increasing the implant diameter can decrease  stress in the cortical part of the bone. Bone type can promote positive bone stimulation around an implant improving the overall function. There are four different types: Type I, Type II, Type III, and Type IV. Type I is the most dense of them which provides more cortical anchorage but has limited vascularity. Type II is the best for osseointegration because it provides good cortical anchorage and has better vascularity than type I. Type III and IV have a thin layer of cortical bone which decrease the success rate of primary stability{3).
+Osseointegrated dental implants depend on various factors that affect the anchorage of the  implant to the bone tissue. Successful surgical anchoring techniques can contribute to long term success of implant stability. Primary stability plays a role 2 week postoperatively by achieving mechanical retention of the implant.   It helps establish a mechanical microenvironment for gradual bone healing, or osseointegration-This is secondary implant stability. Bone type, implant length, implant and diameter influences primary and secondary implant stability. Implant length can range from 6mm to 20mm; however, the most common lengths are between 8mm to 15mm. Many studies suggest that implant length contribute to decreasing bone stress and increasing implant stability. Bone stress can occur at both the cortical and cancellous part of the bone. Increasing implant length will decrease stress in the cancellous part of the bone while increasing the implant diameter can decrease  stress in the cortical part of the bone. [^4] Bone type can promote positive bone stimulation around an implant improving the overall function. There are four different types: Type I, Type II, Type III, and Type IV. Type I is the most dense of them which provides more cortical anchorage but has limited vascularity. Type II is the best for osseointegration because it provides good cortical anchorage and has better vascularity than type I. Type III and IV have a thin layer of cortical bone which decrease the success rate of primary stabilit [^6].
 
-Implant stability can be measured using the Implant Stability Quotient (ISQ) as an indirect indicator to determine the time frame for implant loading and prognostic indicator for implant failure(1). This can be measured by resonance frequency analysis (RFA) immediately after the implant has been  placed. Resonance frequency analysis is the measurement in which a device vibrates in response to frequencies in the range of 5-15 kHz. The peak amplitude of the response is then encoded into the implant stability quotient (ISQ) .The clinical range of ISQ is from 55-80. High stability is >70 ISQ while medium stability is between 60-69 ISQ. Low stability is <60 ISQ.(2) 
+Implant stability can be measured using the Implant Stability Quotient (ISQ) as an indirect indicator to determine the time frame for implant loading and prognostic indicator for implant failure [^4]. This can be measured by resonance frequency analysis (RFA) immediately after the implant has been  placed. Resonance frequency analysis is the measurement in which a device vibrates in response to frequencies in the range of 5-15 kHz. The peak amplitude of the response is then encoded into the implant stability quotient (ISQ) .The clinical range of ISQ is from 55-80. High stability is >70 ISQ while medium stability is between 60-69 ISQ. Low stability is <60 ISQ [^7]. 
 
-There are over 2000 types of  dental implant systems (DIS) that differs in diameter, length, shape, coating, and surface material properties. These devices have more than a 90% long termed survival rate which ranges more than 10 years. Inevitably, biological and mechanical complications such as fractures, low implant stability, and screw loosening can occur. Therefore, identifying the correct Dental Implant System is essential to repair or replace  the existing system. Methods and techniques that enables clear identification is insufficient.
+There are over 2000 types of  dental implant systems (DIS) that differs in diameter, length, shape, coating, and surface material properties. These devices have more than a 90% long termed survival rate which ranges more than 10 years. Inevitably, biological and mechanical complications such as fractures, low implant stability, and screw loosening can occur. Therefore, identifying the correct Dental Implant System is essential to repair or replace  the existing system. Methods and techniques that enables clear identification is insufficient [^8].
 
-Artificial intelligence is a branch of computer science that focuses on building and programming machines to think like humans and mimic their actions. A deep convolutional neural network (DCNN) is a brach of artificial intelligence that applies multiple layers of nonlinear processing units for feature extraction, transformation, and classification of high dimensional datasets. Deep convolutional neural networks are commonly used to identify patterns in images and videos.  The structure typically consist of four types of layers: convolution, pooling, activation, and fully connected. These neural networks use images as an input to train a classifier which employs a mathematical operation called a convolution. Deep neural networks have been successfully applied in the dental field and demonstrated advantages in terms of diagnosis and prognosis. Using automated deep convolutional neural networks is highly efficient in classifying different dental implant systems compared to most dental professionals.
+Artificial intelligence is a branch of computer science that focuses on building and programming machines to think like humans and mimic their actions. A deep convolutional neural network (DCNN) is a brach of artificial intelligence that applies multiple layers of nonlinear processing units for feature extraction, transformation, and classification of high dimensional datasets. Deep convolutional neural networks are commonly used to identify patterns in images and videos.  The structure typically consist of four types of layers: convolution, pooling, activation, and fully connected. These neural networks use images as an input to train a classifier which employs a mathematical operation called a convolution. Deep neural networks have been successfully applied in the dental field and demonstrated advantages in terms of diagnosis and prognosis. Using automated deep convolutional neural networks is highly efficient in classifying different dental implant systems compared to most dental professionals[^8].
 
 
 
@@ -63,76 +63,83 @@ Dental implant systems were classified into six different types with a diameter 
 * Superline® (Dentium, Seoul, Korea), with a diameter of 3.6–5.0 mm and a length of 8–12 mm;  
 * TSIII® (Osstem, Seoul, Korea), with a diameter of 3.5–5.0 mm and a length of 7–13 mm;  
 * SLActive® BL (Institut Straumann AG, Basel, Switzerland), with a diameter of 3.3–4.8 mm and a  length of 8–12 mm; 
-* SLActive® BLT (Institut Straumann AG, Basel, Switzerland), with a diameter of 3.3–4.8 mm and a  length of 8–12 mm. 
+* SLActive® BLT (Institut Straumann AG, Basel, Switzerland), with a diameter of 3.3–4.8 mm and a  length of 8–12 mm.
 
 ## 2.2 Deep Convulutional Neural Network
 
-![](images/DCNN.png)
-Figure 1: Overview of an automated deep convolutional neural network. Using Neuro-T to automatically select the model and optimize hyper-parameter. During training and inference, the automated DCNN automatically creates effective deep learning models and searches the optimal hyperparameters. An Adam optimizer with L2 regularization was 
-used for transfer learning. The batch size was set to 432, and the automated DCNN architecture  consisted of 18 layers with no dropout.
+Using Neuro-T to automatically select the model and optimize hyper-parameter. During training and inference, the automated DCNN automatically creates effective deep learning models and searches the optimal hyperparameters. An Adam optimizer with L2 regularization was used for transfer learning. The batch size was set to 432, and the automated DCNN architecture  consisted of 18 layers with no dropout.
+
+![](images/DCNN.png) 
+Figure 1 [^8]: Overview of an automated deep convolutional neural network. 
 
 
-
-
-- [ ] Find data sets about effects about dentronics
-- [ ] Identify the purpose of data sets
-- [ ] What are the challenges with Dentronics data sets? HIPPA, size, availibility
-- [ ] Datasets can be huge and GitHub has limited space. Only very small datasets should be stored in  GitHub. However, if the data is publicly available you program must contain a download function instead that you customize.
-Write it using pythons `request`. You will get point deductions if you check-in data sets that are large and do not use
-the download function.
 
 
 
 ## 3. Results
 
-![](images/results.png)
+For the evaluation, the following statistical parameters were taken into account: receiver operating characteristic (ROC) curve, area under the ROC curve (AUC), 95% confidence intervals (CIs), standard error (SE), Youden index (sensitivity + specificity − 1), sensitivity, and specificity, which were calculated using Neuro-T  and R statistical software . Delong’s method was used to compare the AUCs generated from the test dataset, and the significance level was set at p < 0.05.
+
+
+The accuracy of the automated DCNN abased on the AUC, Youden index, sensitivity, and specificity
+for the 2,396 panoramic and periapical radiographic images were 0.954(95% CI = 0.933–0.970,
+SE = 0.011), 0.808, 0.955, and 0.853, respectively. Using only panoramic radiographic images (n = 1429),
+the automated DCNN achieved an AUC of 0.929 (95% CI = 0.904–0.949, SE = 0.018, Youden index = 0804,
+sensitivity = 0.922, and specificity = 0.882), while the corresponding value using only periapical
+radiographic images (n = 967) achieved an AUC of 0.961 (95% CI = 0.941–0.976, SE = 0.009, Youden
+index = 0.802, sensitivity = 0.955, and specificity = 0.846). There were no significant differences in
+accuracy among the three ROC curves. 
+![](images/results.png) 
 
 
 
+Figure 2 [^8]: The accuracy of the automated DCNN for the test dataset did not show a significant difference among the three ROC three ROC curves based on DeLong’s method.
 
+
+
+The Straumann SLActive® BLT implant system has a relatively large tapered shape compared to other types of DISs. Thus, the automated DCNN (AUC = 0.981, 95% CI = 0.949–0.996). However, for the Dentium Superline®and Osstem TSIII® implant systems that do not have conspicuous characteristic elements with a tapered shape, the automated DCNN classified correctly with an AUC of 0.903 (95% CI = 0.850–0.967) and 0.937 (95% CI = 0.890–0.967)
 
 ![](images/results2.png)
 
+Figure 3 (a-f)[^8]: Performance of the automated DCNN and comparison with dental professionals for
+classification of six types of DIS
+
+
+## 4. Conclusion
+
+Nonetheless, this study has certain limitations. Although six types of DISs were selected from three different dental hospitals and categorized as a dataset, the training dataset was still insufficient for clinical practice. Therefore, it is necessary to build a high-quality and large-scale dataset containing different types of DISs. If time and cost are not limited, the automated DCNN can be continuously trained and optimized for improved accuracy. However, owing to computing power constraints, we have to compromise on optimization at the appropriate level. Additionally, the automated DCNN regulates the entire process, including appropriate model selection and optimized hyper-parameter tuning. The automated DCNN can help clinical dental practitioners to classify various types of DISs based on dental radiographic images. Nevertheless, further studies are necessary to determine the efficacy and feasibility of applying the automated DCNN in clinical practice.
+
+## 5. Acknowledgments
+
+1.Carlos Theran, REU Instructor
+
+2.Yohn Jairo Parra, REU Instructor
+
+3.Gregor von Laszewski, REU Instructor
+
+4.Victor Adankai, Graduate Student
+
+5.REU Peers
+
+6.Florida Agricultural and Mechanical University
 
 
 
+## 6. References
 
-- [ ] Place a cool image into projects images in my directory
-- [ ] Correct the following, replace the fa number with my su number and the chart of png
-- [ ] if image is copied , you must use a reference such as shown in the Figure 1 caption
-- [ ] list 
+1. Bataineh, A. B., &amp; Al-Dakes, A. M. (2017, January 1). The influence of length of implant on primary stability: An in vitro study using resonance frequency analysis. Journal of clinical and experimental dentistry. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5268121/. 
 
-**Figure 1:** Images can be included in the report, but if they are copied you must cite them [^1].
+2. Ghidrai, G. (n.d.). Dental implant abutment. Stomatologia pe intelesul tuturor. https://www.infodentis.com/dental-implants/abutment.php. 
 
-## 5. Example of an AI algorithm in Dentronics
-
-- [ ] Identify the concrete data set that will be used
-- [ ] Identify the concrete algorithm that is used to anaylze the data set
-- [ ] Write the program
-- [ ] Verify that it works
-
-## 6. Benchmark
-
-Your project must include a benchmark. The easiest is to use cloudmesh-common [^2]
- 
-## 7. Conclusion
-
-A convincing but not fake conclusion should summarize what the conclusion of the project is.
-
-## 8. Acknowledgments
-
-- [ ] Gregor helped me
-
-Please add acknowledgments to all that contributed or helped on this project.
-
-## 9. References
-
-- [ ]  Your report must include at least 6 references. Please use customary academic citation and not                  just URLs. As we will at one point automatically change the references from superscript to square brackets it is best to introduce a space before the first square bracket.
-
-[^1]: Use of energy explained - Energy use in homes, [Online resource] 
-      <https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php>
-
-
-[^2]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
+3. Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
       <https://github.com/cloudmesh/cloudmesh-common>
+      
+4. H, H., G, W., &amp; E, H. (2020). The clinical significance of implant Stability QUOTIENT (ISQ) MEASUREMENTS: A literature review. Journal of oral biology and craniofacial research. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7494467/. 
 
+5. Karras, Spiro, Look at the structure of dental implants.(2020, September 2). https://www.drkarras.com/a-look-at-the-structure-of-dental-implants/. 
+
+6. Li, J., Yin, X., Huang, L., Mouraret, S., Brunski, J. B., Cordova, L., Salmon, B., &amp; Helms, J. A. (2017, July). Relationships among Bone QUALITY, IMPLANT Osseointegration, and WNT SIGNALING. Journal of dental research. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5480808/. 
+
+7. Möhlhenrich, S. C., Heussen, N., Modabber, A., Bock, A., Hölzle, F., Wilmes, B., Danesh, G., &amp; Szalma, J. (2020, July 24). Influence of bone density, screw size and surgical procedure on orthodontic mini-implant placement – part b: Implant stability. International Journal of Oral and Maxillofacial Surgery. https://www.sciencedirect.com/science/article/abs/pii/S0901502720302496. 
+
+8. SN;, L. J. H. K. Y. T. L. J. B. J. (n.d.). A performance comparison between Automated deep learning and dental professionals in classification of dental Implant systems from Dental Imaging: A Multi-center study. Diagnostics (Basel, Switzerland). https://pubmed.ncbi.nlm.nih.gov/33171758/. 
