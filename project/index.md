@@ -83,7 +83,7 @@ accuracy among the three ROC curves.
 ![Figure 2](https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-376/main/project/images/results.png) 
 Figure 2[^8]: The accuracy of the automated DCNN for the test dataset did not show a significant difference among the three ROC three ROC curves based on DeLong’s method.
 
-The Straumann SLActive® BLT implant system has a relatively large tapered shape compared to other types of DISs. Thus, the automated DCNN (AUC = 0.981, 95% CI = 0.949–0.996). However, for the Dentium Superline®and Osstem TSIII® implant systems that do not have conspicuous characteristic elements with a tapered shape, the automated DCNN classified correctly with an AUC of 0.903 (95% CI = 0.850–0.967) and 0.937 (95% CI = 0.890–0.967)
+The Straumann SLActive BLT implant system has a relatively large tapered shape compared to other types of DISs. Thus, the automated DCNN (AUC = 0.981, 95% CI = 0.949–0.996). However, for the Dentium Superline and Osstem TSIII implant systems that do not have conspicuous characteristic elements with a tapered shape, the automated DCNN classified correctly with an AUC of 0.903 (95% CI = 0.850–0.967) and 0.937 (95% CI = 0.890–0.967)
 
 ![Figure 3](https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-376/main/project/images/results2.png)
 Figure 3 (a-f)[^8]: Performance of the automated DCNN and comparison with dental professionals for
@@ -109,22 +109,22 @@ Nonetheless, this study has certain limitations. Although six types of DISs were
 
 ## 6. References
 
-1. Bataineh, A. B., &amp; Al-Dakes, A. M. (2017, January 1). The influence of length of implant on primary stability: An in vitro study using resonance frequency analysis. Journal of clinical and experimental dentistry. 
+1. Bataineh, A. B., &amp; Al-Dakes, A. M. (2017, January 1). The influence of length of implant on primary stability: An in vitro study using resonance frequency analysis. Journal of clinical and experimental dentistry.
    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5268121/>
 
-2. Ghidrai, G. (n.d.). Dental implant abutment. Stomatologia pe intelesul tuturor. 
+2. Ghidrai, G. (n.d.). Dental implant abutment. Stomatologia pe intelesul tuturor.
    <https://www.infodentis.com/dental-implants/abutment.php>
 
-3. Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
+3. Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub]
    <https://github.com/cloudmesh/cloudmesh-common>
-      
-4. H, H., G, W., &amp; E, H. (2020). The clinical significance of implant Stability QUOTIENT (ISQ) MEASUREMENTS: A literature review. Journal of oral biology and craniofacial research. 
+
+4. H, H., G, W., &amp; E, H. (2020). The clinical significance of implant Stability QUOTIENT (ISQ) MEASUREMENTS: A literature review. Journal of oral biology and craniofacial research.
    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7494467/>
 
-5. Karras, Spiro, Look at the structure of dental implants.(2020, September 2). 
+5. Karras, Spiro, Look at the structure of dental implants.(2020, September 2).
    <https://www.drkarras.com/a-look-at-the-structure-of-dental-implants/>
 
-6. Li, J., Yin, X., Huang, L., Mouraret, S., Brunski, J. B., Cordova, L., Salmon, B., &amp; Helms, J. A. (2017, July). Relationships among Bone QUALITY, IMPLANT Osseointegration, and WNT SIGNALING. Journal of dental research. 
+6. Li, J., Yin, X., Huang, L., Mouraret, S., Brunski, J. B., Cordova, L., Salmon, B., &amp; Helms, J. A. (2017, July). Relationships among Bone QUALITY, IMPLANT Osseointegration, and WNT SIGNALING. Journal of dental research.
    <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5480808/>
 
 7. Möhlhenrich, S. C., Heussen, N., Modabber, A., Bock, A., Hölzle, F., Wilmes, B., Danesh, G., &amp; Szalma, J. (2020, July 24). Influence of bone density, screw size and surgical procedure on orthodontic mini-implant placement – part b: Implant stability. International Journal of Oral and Maxillofacial Surgery.
