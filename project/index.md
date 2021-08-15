@@ -53,19 +53,21 @@ Researchers at Daejon Dental Hospital used automated deep convolutional neural n
 ## 2.1 Dental implant classification
 
 Dental implant systems were classified into six different types with a diameter of 3.3-5.0mm and a length of 7-13mm.
-* Astra OsseoSpeed TX (Dentsply IH AB, Molndal, Sweden), with a diameter of 4.5–5.0 mm and a length of 9–13 mm;  
-* Implantium (Dentium, Seoul, Korea), with a diameter of 3.6–5.0 mm and a length of 8–12 mm;  
-* Superline (Dentium, Seoul, Korea), with a diameter of 3.6–5.0 mm and a length of 8–12 mm;  
-* TSIII (Osstem, Seoul, Korea), with a diameter of 3.5–5.0 mm and a length of 7–13 mm;  
-* SLActive BL (Institut Straumann AG, Basel, Switzerland), with a diameter of 3.3–4.8 mm and a  length of 8–12 mm; 
-* SLActive BLT (Institut Straumann AG, Basel, Switzerland), with a diameter of 3.3–4.8 mm and a  length of 8–12 mm.
+
+* Astra OsseoSpeed TX (Dentsply IH AB, Molndal, Sweden), with a diameter of 4.5–5.0 mm and a length of 9–13 mm;
+* Implantium (Dentium, Seoul, Korea), with a diameter of 3.6–5.0 mm and a length of 8–12 mm;
+* Superline (Dentium, Seoul, Korea), with a diameter of 3.6–5.0 mm and a length of 8–12 mm;
+* TSIII (Osstem, Seoul, Korea), with a diameter of 3.5–5.0 mm and a length of 7–13 mm;
+* SLActive BL (Institut Straumann AG, Basel, Switzerland), with a diameter of 3.3–4.8 mm and a length of 8–12 mm; 
+* SLActive BLT (Institut Straumann AG, Basel, Switzerland), with a diameter of 3.3–4.8 mm and a length of 8–12 mm.
 
 ## 2.2 Deep Convulutional Neural Network
 
 Using Neuro-T to automatically select the model and optimize hyper-parameter. During training and inference, the automated DCNN automatically creates effective deep learning models and searches the optimal hyperparameters. An Adam optimizer with L2 regularization was used for transfer learning. The batch size was set to 432, and the automated DCNN architecture  consisted of 18 layers with no dropout.
 
-![Figure 1](https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-376/main/project/images/DCNN.png) 
-Figure 1[^8]: Overview of an automated deep convolutional neural network. 
+![Figure 1](https://github.com/cybertraining-dsc/su21-reu-376/raw/main/project/images/DCNN.png) 
+
+**Figure 1**: Overview of an automated deep convolutional neural network [^8].
 
 ## 3. Results
 
