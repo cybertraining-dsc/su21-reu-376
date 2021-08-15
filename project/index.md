@@ -1,10 +1,10 @@
 ---
 date: 2021-06-16
-title: "Report: Dentronics: Classifying Dental Implant Systems by using Automated Deep Learning "
+title: "Report: Dentronics: Classifying Dental Implant Systems by using Automated Deep Learning"
 linkTitle: "Dentronics"
 tags: ["project", "reu","ai", "dentistry"]
 description: Artificial intelligence is a branch of computer science that focuses on building and programming machines to think like humans and mimic their actions. The proper concept definition of this term cannot be achieved simply by applying a mathematical, engineering, or logical approach but requires an approach that is linked to a deep cognitive scientific inquiry. The use of machine-based learning is constantly evolving the dental and medical field to assist with medical decision making process. In addition to diagnosis of visually confirmed dental caries and impacted teeth, studies applying machine learning based on artificial neural networks to dental treatment through analysis of dental magnetic resonance imaging, computed tomography, and cephalometric radiography are actively underway, and some visible results are emerging at a rapid pace for commercialization. Researchers have found deep convolutional neural networks to have a future place in the dental field when it comes to classification of dental implants using radiographic images.
-author: Young Jamyla
+author: Jamyla Young
 github_url: https://github.com/cybertraining-dsc/su21-reu-376/edit/main/project/index.md
 resources:
 - src: "**.{png,jpg}"
@@ -22,7 +22,7 @@ Jamyla Young, [su21-reu-376](https://github.com/cybertraining-dsc/su21-reu-376),
 
 ## Abstract
 
-Artificial intelligence is a branch of computer science that focuses on building and programming machines to think like humans and mimic their actions. The proper concept definition of this term cannot be achieved simply by applying a mathematical, engineering, or logical approach but requires an approach that is linked to a deep cognitive scientific inquiry. THe use of machine-based learning is constantly evolving the dental and medical field to assist with medical decision making process.In addition to diagnosis of visually confirmed dental caries and impacted teeth, studies applying machine learning based on artificial neural networks to dental treatment through analysis of dental magnetic resonance imaging, computed tomography, and cephalometric radiography are actively underway, and some visible results are emerging at a rapid pace for commercialization.
+Artificial intelligence is a branch of computer science that focuses on building and programming machines to think like humans and mimic their actions. The proper concept definition of this term cannot be achieved simply by applying a mathematical, engineering, or logical approach but requires an approach that is linked to a deep cognitive scientific inquiry. The use of machine-based learning is constantly evolving the dental and medical field to assist with medical decision making process.In addition to diagnosis of visually confirmed dental caries and impacted teeth, studies applying machine learning based on artificial neural networks to dental treatment through analysis of dental magnetic resonance imaging, computed tomography, and cephalometric radiography are actively underway, and some visible results are emerging at a rapid pace for commercialization.
 
 Contents
 
@@ -82,13 +82,13 @@ radiographic images (n = 967) achieved an AUC of 0.961 (95% CI = 0.941–0.976, 
 index = 0.802, sensitivity = 0.955, and specificity = 0.846). There were no significant differences in
 accuracy among the three ROC curves.
 
-![Figure 2](https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-376/main/project/images/results.png) 
+![Figure 2](https://github.com/cybertraining-dsc/su21-reu-376/raw/main/project/images/results.png) 
 
 **Figure 2**: The accuracy of the automated DCNN for the test dataset did not show a significant difference among the three ROC three ROC curves based on DeLong’s method [^8].
 
 The Straumann SLActive BLT implant system has a relatively large tapered shape compared to other types of DISs. Thus, the automated DCNN (AUC = 0.981, 95% CI = 0.949–0.996). However, for the Dentium Superline and Osstem TSIII implant systems that do not have conspicuous characteristic elements with a tapered shape, the automated DCNN classified correctly with an AUC of 0.903 (95% CI = 0.850–0.967) and 0.937 (95% CI = 0.890–0.967)
 
-![Figure 3](https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-376/main/project/images/results2.png)
+![Figure 3](https://github.com/cybertraining-dsc/su21-reu-376/raw/main/project/images/results2.png)
 
 **Figure 3 (a-f)**: Performance of the automated DCNN and comparison with dental professionals for
 classification of six types of DIS [^8]
@@ -107,7 +107,7 @@ Nonetheless, this study has certain limitations. Although six types of DISs were
 
 4. Victor Adankai, Graduate Student
 
-5. Jaques Fleischer, REU peer
+5. Jacques Fleischer, REU peer
 
 6. Florida Agricultural and Mechanical University
 
