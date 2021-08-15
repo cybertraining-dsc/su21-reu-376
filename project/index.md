@@ -83,13 +83,15 @@ index = 0.802, sensitivity = 0.955, and specificity = 0.846). There were no sign
 accuracy among the three ROC curves.
 
 ![Figure 2](https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-376/main/project/images/results.png) 
-Figure 2[^8]: The accuracy of the automated DCNN for the test dataset did not show a significant difference among the three ROC three ROC curves based on DeLong’s method.
+
+**Figure 2**: The accuracy of the automated DCNN for the test dataset did not show a significant difference among the three ROC three ROC curves based on DeLong’s method [^8].
 
 The Straumann SLActive BLT implant system has a relatively large tapered shape compared to other types of DISs. Thus, the automated DCNN (AUC = 0.981, 95% CI = 0.949–0.996). However, for the Dentium Superline and Osstem TSIII implant systems that do not have conspicuous characteristic elements with a tapered shape, the automated DCNN classified correctly with an AUC of 0.903 (95% CI = 0.850–0.967) and 0.937 (95% CI = 0.890–0.967)
 
 ![Figure 3](https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-376/main/project/images/results2.png)
-Figure 3 (a-f)[^8]: Performance of the automated DCNN and comparison with dental professionals for
-classification of six types of DIS
+
+**Figure 3 (a-f)**: Performance of the automated DCNN and comparison with dental professionals for
+classification of six types of DIS [^8]
 
 ## 4. Conclusion
 
