@@ -111,26 +111,19 @@ Nonetheless, this study has certain limitations. Although six types of DISs were
 
 ## 6. References
 
-1. Bataineh, A. B., &amp; Al-Dakes, A. M. (2017, January 1). The influence of length of implant on primary stability: An in vitro study using resonance frequency analysis. Journal of clinical and experimental dentistry.
-   <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5268121/>
+[^1]: Bataineh, A. B., &amp; Al-Dakes, A. M. (2017, January 1). The influence of length of implant on primary stability: An in vitro study using resonance frequency analysis. Journal of clinical and experimental dentistry. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5268121/>
 
-2. Ghidrai, G. (n.d.). Dental implant abutment. Stomatologia pe intelesul tuturor.
-   <https://www.infodentis.com/dental-implants/abutment.php>
+[^2]: Ghidrai, G. (n.d.). Dental implant abutment. Stomatologia pe intelesul tuturor. <https://www.infodentis.com/dental-implants/abutment.php>
 
-3. Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub]
-   <https://github.com/cloudmesh/cloudmesh-common>
+[^3] Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub <https://github.com/cloudmesh/cloudmesh-common>
 
-4. H, H., G, W., &amp; E, H. (2020). The clinical significance of implant Stability QUOTIENT (ISQ) MEASUREMENTS: A literature review. Journal of oral biology and craniofacial research.
-   <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7494467/>
+[^4]: H, H., G, W., &amp; E, H. (2020). The clinical significance of implant Stability QUOTIENT (ISQ) MEASUREMENTS: A literature review. Journal of oral biology and craniofacial research. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7494467/>
 
-5. Karras, Spiro, Look at the structure of dental implants.(2020, September 2).
+[^5]: Karras, Spiro, Look at the structure of dental implants.(2020, September 2).
    <https://www.drkarras.com/a-look-at-the-structure-of-dental-implants/>
 
-6. Li, J., Yin, X., Huang, L., Mouraret, S., Brunski, J. B., Cordova, L., Salmon, B., &amp; Helms, J. A. (2017, July). Relationships among Bone QUALITY, IMPLANT Osseointegration, and WNT SIGNALING. Journal of dental research.
-   <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5480808/>
+[^6]: Li, J., Yin, X., Huang, L., Mouraret, S., Brunski, J. B., Cordova, L., Salmon, B., &amp; Helms, J. A. (2017, July). Relationships among Bone QUALITY, IMPLANT Osseointegration, and WNT SIGNALING. Journal of dental research <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5480808/>
 
-7. Möhlhenrich, S. C., Heussen, N., Modabber, A., Bock, A., Hölzle, F., Wilmes, B., Danesh, G., &amp; Szalma, J. (2020, July 24). Influence of bone density, screw size and surgical procedure on orthodontic mini-implant placement – part b: Implant stability. International Journal of Oral and Maxillofacial Surgery.
-   <https://www.sciencedirect.com/science/article/abs/pii/S0901502720302496>
+[^7]: Möhlhenrich, S. C., Heussen, N., Modabber, A., Bock, A., Hölzle, F., Wilmes, B., Danesh, G., &amp; Szalma, J. (2020, July 24). Influence of bone density, screw size and surgical procedure on orthodontic mini-implant placement – part b: Implant stability. International Journal of Oral and Maxillofacial Surgery. <https://www.sciencedirect.com/science/article/abs/pii/S0901502720302496>
 
-8. SN;, L. J. H. K. Y. T. L. J. B. J. (n.d.). A performance comparison between Automated deep learning and dental professionals in classification of dental Implant systems from Dental Imaging: A Multi-center study. Diagnostics (Basel, Switzerland). 
-   <https://pubmed.ncbi.nlm.nih.gov/33171758/>
+[^8]: Lee JH, Kim YT, Lee JB, Jeong SN. A Performance Comparison between Automated Deep Learning and Dental Professionals in Classification of Dental Implant Systems from Dental Imaging: A Multi-Center Study. Diagnostics (Basel). 2020 Nov 7;10(11):910. doi: 10.3390/diagnostics10110910. PMID: 33171758; PMCID: PMC7694989.
