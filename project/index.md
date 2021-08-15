@@ -107,7 +107,7 @@ Nonetheless, this study has certain limitations. Although six types of DISs were
 
 4. Victor Adankai, Graduate Student
 
-5. REU Peers
+5. Jaques Fleischer, REU peer
 
 6. Florida Agricultural and Mechanical University
 
@@ -119,7 +119,7 @@ Nonetheless, this study has certain limitations. Although six types of DISs were
 
 [^3] Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub <https://github.com/cloudmesh/cloudmesh-common>
 
-[^4]: H, H., G, W., &amp; E, H. (2020). The clinical significance of implant Stability QUOTIENT (ISQ) MEASUREMENTS: A literature review. Journal of oral biology and craniofacial research. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7494467/>
+[^4]: Huang, H., G, Wu., &amp; E, Hunziker. (2020). The clinical significance of implant Stability QUOTIENT (ISQ) MEASUREMENTS: A literature review. Journal of oral biology and craniofacial research. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7494467/>
 
 [^5]: Karras, Spiro, Look at the structure of dental implants.(2020, September 2).
    <https://www.drkarras.com/a-look-at-the-structure-of-dental-implants/>
