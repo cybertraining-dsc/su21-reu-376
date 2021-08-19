@@ -4,9 +4,9 @@ owner:
   lastname: "Young"
   hid: "su21-reu-376"
   community: "reu"
-  semester: "sp21"
+  semester: "su21"
 project:
-  title: "Dentronics: Artifical intelligence in Prosthodontics"
+  title: "Dentronics: Classifying Dental Implant Systems by Using Automated Deep Learning"
   url: "https://github.com/cybertraining-dsc/su21-reu-376/blob/main/project/index.md"
   author:
     - su21-reu-376
